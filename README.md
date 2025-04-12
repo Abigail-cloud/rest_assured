@@ -1,7 +1,6 @@
 # 📘 REST Assured Beginner's Guide
 
-Welcome to the beginner-friendly guide to **REST Assured**, a powerful Java library for testing RESTful APIs. Whether you're a QA engineer, a developer, or just curious about API testing, this guide will help you understand the fundamentals and get started quickly.
-
+**REST Assured**, is a powerful Java library for testing RESTful APIs. 
 ---
 
 ## 🚀 What is REST Assured?
