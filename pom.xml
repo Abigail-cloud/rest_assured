@@ -39,6 +39,13 @@
             <version>3.0</version>
             <scope>test</scope>
         </dependency>
+<!--        Add HTML Reporter-->
+        <!-- ExtentReports dependencies -->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>5.1.1</version>
+        </dependency>
     </dependencies>
 
 </project>
